@@ -125,18 +125,10 @@ The trained model is deployed using **Streamlit**, providing a user-friendly int
 
 The project demonstrates that ensemble machine learning techniques significantly improve the accuracy and reliability of CAD prediction. Early detection using this system can assist healthcare professionals in making informed decisions and help patients take preventive measures at the right time.
 
----
-
-## Future Enhancements
-
-- Integration with Electronic Health Records (EHR)
-- Deep learning models such as CNN and LSTM
-- Mobile application for wider accessibility
-- Deployment on cloud platforms for real-world use
 
 ---
 
 ## Author
 
 Madhu Vignesh R  
-MCA | Machine Learning | Data Science
+MCA | Machine Learning
