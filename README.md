@@ -134,6 +134,9 @@ The project demonstrates that ensemble machine learning techniques significantly
 |------------|------------------|
 | ![](output1.jpeg) | ![](output2.jpeg) |
 
+### Prediction Result
+![Prediction Result](output3.jpeg)
+
 
 ## Author
 
