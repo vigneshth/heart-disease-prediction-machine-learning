@@ -128,6 +128,20 @@ The project demonstrates that ensemble machine learning techniques significantly
 
 ---
 
+## Output Screenshots
+### User Input Form
+![Input Form](output1.jpeg)
+
+### Prediction Result
+![Prediction Result](output2.jpeg)
+
+## Output Screenshots
+
+| Input Form | Prediction Result |
+|------------|------------------|
+| ![](output1.jpeg) | ![](output2.jpeg) |
+
+
 ## Author
 
 Madhu Vignesh R  
